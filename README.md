@@ -13,6 +13,6 @@ Este plano tem como objetivo promover uma gerência de nível F para o projeto d
 > link para o repositório online: https://github.com/ayrtondenner/rd-controle-de-estoque
 
 #### Extensões de arquivos permitidas
-> .xml			.html			.iml
-> .astah		.ep			.rb
-> .generators		.raketask		.js
+> .xml			> .html			> .iml
+> .astah		> .ep			> .rb
+> .generators		> .raketask		>> .js
